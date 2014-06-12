@@ -1,6 +1,6 @@
 setInterval(function() {
    var data = {value:[
-	  { label: "iOS", value: 50 },
+	  { label: "iOS", value: Math.random()*100 },
 	  { label: "Android", value: 34 },
 	  { label: "Chrome", value: 70 },
 	  { label: "IE", value: 30 },
